@@ -2,7 +2,7 @@
   "name": "myexpense-tracker1",
   "version": "1.0.0",
   "description": "backend for expense tracker",
-  "main": "server.js",
+  "main": "server",
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
